@@ -1,0 +1,78 @@
+.header {
+    background-image: url(../images/mandazi.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+#img1 {
+    width: 20%;
+    height:10%
+}
+#blanks {
+    background-image: url(../images/foodstuff-bagels.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.meek:hover{
+    opacity: 0.5;
+    color: black;
+  }
+  .meek{
+    height:500px;
+    width: 700px;
+    text-align: center;
+    background-image: url(../images/pancake.jpg);
+    color: white;
+    font-size: 250%;
+  }
+  #let {
+      height: 300px;
+      width: 700px
+  }
+  #cofee{
+      animation-name: flash, tada, slidein;
+      animation-duration: 4s, 3s, 5s;
+      animation-iteration-count: 4, 5, 2;
+      height: 200px;
+      width: 350px;
+  }
+  #sus{
+      height: 200px;
+      width: 300px;
+  }
+  body{
+      background-color: goldenrod;
+  }
+  .lunch:hover{
+      opacity: 0.5;
+      color: black;
+  }
+  .lunch{
+    height:800px;
+    width: 700px;
+    text-align: center;
+    background-image: url(../images/french-fries-today.jpg);
+    color: white;
+    font-size: 250%;
+  }
+  #img2{
+      height: 200px;
+      width: 350px;
+  }
+  #img3{
+      height: 200px;
+      width: 400 px;
+  }
+  #ndgu{
+      height: 300px;
+      width: 350px
+
+  }
+  #chken{
+      height: 300px;
+      width: 300px;
+  }
+  #rice{
+      height: 300px;
+      width: 700px;
+  }
