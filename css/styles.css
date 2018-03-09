@@ -104,8 +104,3 @@
   .logon{
     font-size: 200%;
   }
-  #logo{
-    animation-name: shake;
-    animation-duration: 180s;
-    animation-iteration-count: 2;
-  }
